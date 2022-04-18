@@ -23,7 +23,7 @@ li {
 
 a {
   text-decoration: none;
-  color: var(--text);
+  color: #fff;
 }
 
 a:hover {
@@ -41,7 +41,7 @@ p {
   padding: 0.5em 1em;
   margin: 10px auto;
   color: #fff;
-  background-color: var(--main);
+  background-color: #1e2554;
   border-radius: 15px;
   box-shadow: 0 3px 5px rgba(0, 0, 0, 0.22);
 }
@@ -70,18 +70,40 @@ p {
 }
 
 .contents-box {
-  border-left: solid 10px var(--main);
+  border-left: solid 10px #1e2554;
   box-shadow: 0 3px 5px rgba(0, 0, 0, 0.22);
   transition: border-left 0.3s;
-  color: var(--main);
-  background-color: var(--text);
+  color: #1e2554;
+  background-color: #fff;
   padding: 10px;
   margin: 20px 0;
   border-radius: 5px;
+  margin-top: 20px;
+}
+
+.contents {
+  clear: both;
+  padding-top: 5px;
+}
+
+.btn {
+  float: left;
+  align: center;
+  width: 120px;
+  height: 30px;
+  color: #000;
+  background-color: #1e2554;
+  padding: 10px;
+  text-align: center;
+  border-radius: 5px;
+  box-shadow: 0 3px 5px rgba(0, 0, 0, 0.22);
+  margin: 8px;
+  padding-top: 14px;
 }
 
 .footer {
-  border-top: 2px solid var(--main);
+  clear: both;
+  border-top: 2px solid #1e2554;
   margin: 10px;
   padding-top: 5px;
   padding-bottom: 5px;
