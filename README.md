@@ -1,2 +1,4 @@
 # CLOUDY-CSS
-CLOUDY-CSS is framework of css.
+https://wowane.f5.si にも使用されている、曇ったような色合いと丸みのあるデザインが特徴的なCSS Framework。  
+現代人の美的感覚に合わせた曲線と立体感はどんな用途のサイトにも適応します(嘘)  
+もちろんレスポンシブにも対応です。
