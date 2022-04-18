@@ -1,11 +1,3 @@
-:root {
-  --main: #1e2554;
-  --text: #fff;
-  --back: #eaeaea;
-  --sub: #444c7b;
-  --accent: #878dae;
-}
-
 html, body {
   font-family: 'Lato', sans-serif;
   font-family: 'M PLUS Rounded 1c', sans-serif;
